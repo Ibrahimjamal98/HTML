@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<title>Entities</title>
+<body>
+<div>
+<li>1000&#8362; &copy;</li>
+<li>3000&#8369; &copy;</li>
+<li>5000&#8377; &copy;</li>
+
+</div>
+</body>
+</html>
